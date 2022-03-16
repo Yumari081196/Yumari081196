@@ -1,21 +1,21 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yumari</h1>
 
-<a href="#"><img width="100%" height="auto" src="./assets/bienvenida.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="./assets/bienvenida.png" height="50px"/></a>
 
 <h3 align="center">I'm a passionate Full Stack Developer from Perú.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Backend.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://yumaricr-portfolio.netlify.app/)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **cruzyumari2@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
@@ -46,7 +46,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/yumari-cruz-r/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style='width: 30px; height:30px'/></a>
-<a href = "https://yumaricr-portfolio.netlify.app/"><img src="./assets/logoY.png"/></a>
 <a href = "https://www.instagram.com/yumaricr/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
