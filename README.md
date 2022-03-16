@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yumari</h1>
 
-<a href="#"><center><img width="60%" margin='0 20%' height="auto" src="./assets/bienvenida.svg"/></center></a>
+<a href="#"><img width="60%" margin='0 20%' height="auto" src="./assets/bienvenida.svg" align="center"/></a>
 
 <h3 align="center">I'm a passionate Full Stack Developer from Perú.</h3>
 
