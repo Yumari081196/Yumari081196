@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yumari</h1>
 
 <a href="#"><img width="100%" height="auto" src="./assets/bienvenida.png" height="175px"/></a>
 
@@ -45,7 +45,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/yumari-cruz-r/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/yumari-cruz-r/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style='width: 30px; height:30px'/></a>
 <a href = "https://yumaricr-portfolio.netlify.app/"><img src="./assets/logoY.png"/></a>
 <a href = "https://www.instagram.com/yumaricr/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
