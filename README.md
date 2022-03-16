@@ -7,6 +7,14 @@
 
 ## 🙋‍♂️ About Me
 
+ ```js
+const Developer = {
+    name: 'Yumari',
+    lastName: 'Cruz',
+    age: 25,
+    hobbies: ['teach maths', 'learn new things','read fantasy books', 'listen to music']
+};
+```
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
 - 🌱 I’m currently learning **Backend.**
